@@ -1,0 +1,6 @@
+[
+  { "id": "d1", "nomePaciente": "Paciente A.", "texto": "Atendimento excelente do início ao fim, me senti muito bem cuidado durante todo o tratamento.", "nota": 5, "procedimento": "Tratamento odontológico" },
+  { "id": "d2", "nomePaciente": "Paciente B.", "texto": "Equipe atenciosa e resultado acima do esperado. Recomendo a clínica.", "nota": 5, "procedimento": "Tratamento odontológico" },
+  { "id": "d3", "nomePaciente": "Paciente C.", "texto": "Ambiente agradável, profissionais qualificados e ótimo atendimento.", "nota": 5, "procedimento": "Tratamento odontológico" },
+  { "id": "d4", "nomePaciente": "Paciente D.", "texto": "Superou minhas expectativas, já indiquei para familiares e amigos.", "nota": 5, "procedimento": "Tratamento odontológico" }
+]

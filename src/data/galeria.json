@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g1",
+    "imagemUrl": "/images/galeria/fachada-clinica.jpg",
+    "categoria": "Clínica",
+    "legenda": "Fachada da clínica"
+  },
+  {
+    "id": "g2",
+    "imagemUrl": "/images/galeria/equipamentos-tecnologia.jpg",
+    "categoria": "Equipamentos",
+    "legenda": "Tecnologia digital de ponta"
+  },
+  {
+    "id": "g3",
+    "imagemUrl": "/images/galeria/planejamento-3d.jpg",
+    "categoria": "Procedimentos",
+    "legenda": "Planejamento 3D de implantes"
+  },
+  {
+    "id": "g4",
+    "imagemUrl": "/images/antes-depois/reabilitacao-depois.jpg",
+    "categoria": "Sorrisos",
+    "legenda": "Resultado de reabilitação estética"
+  },
+  {
+    "id": "g5",
+    "imagemUrl": "/images/galeria/recepcao-acolhedora.jpg",
+    "categoria": "Clínica",
+    "legenda": "Recepção acolhedora"
+  },
+  {
+    "id": "g6",
+    "imagemUrl": "/images/galeria/lentes-contato.jpg",
+    "categoria": "Sorrisos",
+    "legenda": "Lentes de contato dental"
+  }
+]

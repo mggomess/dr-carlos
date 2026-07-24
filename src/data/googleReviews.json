@@ -1,0 +1,5 @@
+[
+  { "id": "gr1", "autor": "Paciente E.", "nota": 5, "texto": "Excelente atendimento, super recomendo a clínica.", "data": "2026-05-01" },
+  { "id": "gr2", "autor": "Paciente F.", "nota": 5, "texto": "Profissionais atenciosos e estrutura muito boa.", "data": "2026-04-01" },
+  { "id": "gr3", "autor": "Paciente G.", "nota": 5, "texto": "Ótima experiência, resultado muito satisfatório.", "data": "2026-03-01" }
+]

@@ -1,0 +1,20 @@
+{
+  "nome": "Odonto Siqueira",
+  "responsavel": "Dr. Luiz Carlos Siqueira",
+  "cro": "CRO 17251-PE",
+  "instagram": "@clinicaodontosiqueira",
+  "whatsapp": "+5587996753346",
+  "endereco": {
+    "logradouro": "Av. Dona Melica",
+    "bairro": "João de Deus",
+    "cidade": "Petrolina",
+    "estado": "PE",
+    "cep": "56316-600"
+  },
+  "atendeTambem": ["Tabira/PE", "Água Branca/PB"],
+  "mapaEmbedUrl": "https://www.google.com/maps?q=-9.3568598,-40.5378592&hl=pt-BR&z=16&output=embed",
+  "horario": [
+    { "dias": "Segunda a Sexta", "horas": "08:00 – 18:00" },
+    { "dias": "Sábado", "horas": "08:00 – 12:00" }
+  ]
+}

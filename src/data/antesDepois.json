@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ad1",
+    "procedimento": "Alinhamento Ortodôntico",
+    "antesUrl": "/images/antes-depois/ortodontia-antes.jpg",
+    "depoisUrl": "/images/antes-depois/ortodontia-depois.jpg"
+  },
+  {
+    "id": "ad2",
+    "procedimento": "Reabilitação do Sorriso",
+    "antesUrl": "/images/antes-depois/reabilitacao-antes.jpg",
+    "depoisUrl": "/images/antes-depois/reabilitacao-depois.jpg"
+  }
+]

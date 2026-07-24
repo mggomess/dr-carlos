@@ -1,0 +1,85 @@
+[
+  {
+    "id": "implantes",
+    "nome": "Implantes Dentários",
+    "descricaoCurta": "Recupere dentes perdidos com tecnologia e naturalidade.",
+    "descricaoLonga": "Planejamento digital em 3D e materiais de alta biocompatibilidade para implantes com previsibilidade e conforto.",
+    "icone": "Bone",
+    "imagemUrl": "/images/servicos/implantes.jpg",
+    "destaque": true
+  },
+  {
+    "id": "facetas",
+    "nome": "Facetas de Porcelana",
+    "descricaoCurta": "Transforme o sorriso com naturalidade e durabilidade.",
+    "descricaoLonga": "Facetas ultrafinas que corrigem forma, cor e alinhamento preservando ao máximo a estrutura dental.",
+    "icone": "Sparkles",
+    "imagemUrl": "/images/servicos/facetas.jpg",
+    "destaque": true
+  },
+  {
+    "id": "lentes",
+    "nome": "Lentes de Contato Dental",
+    "descricaoCurta": "O sorriso dos sonhos com mínima intervenção.",
+    "descricaoLonga": "Lâminas cerâmicas ultrafinas para simetria, brilho e alinhamento perfeitos.",
+    "icone": "Gem",
+    "imagemUrl": "/images/servicos/lentes.jpg",
+    "destaque": true
+  },
+  {
+    "id": "botox",
+    "nome": "Botox Terapêutico",
+    "descricaoCurta": "Alívio de dores orofaciais e harmonização.",
+    "descricaoLonga": "Aplicação de toxina botulínica para bruxismo, DTM e suavização de linhas de expressão.",
+    "icone": "Wand2",
+    "imagemUrl": "/images/servicos/botox.jpg"
+  },
+  {
+    "id": "harmonizacao",
+    "nome": "Harmonização Facial",
+    "descricaoCurta": "Equilíbrio e naturalidade para os seus traços.",
+    "descricaoLonga": "Preenchimentos e bioestimuladores para realçar a beleza natural com segurança.",
+    "icone": "Sparkle",
+    "imagemUrl": "/images/servicos/harmonizacao.jpg"
+  },
+  {
+    "id": "aparelhos",
+    "nome": "Aparelhos Ortodônticos",
+    "descricaoCurta": "Alinhamento dental para todas as idades.",
+    "descricaoLonga": "Opções metálicas, estéticas e alinhadores transparentes conforme o seu estilo de vida.",
+    "icone": "AlignCenter",
+    "imagemUrl": "/images/servicos/aparelhos.jpg"
+  },
+  {
+    "id": "proteses",
+    "nome": "Próteses Dentárias",
+    "descricaoCurta": "Função e estética recuperadas com conforto.",
+    "descricaoLonga": "Próteses fixas, removíveis e protocolos sobre implante, feitas sob medida.",
+    "icone": "Puzzle",
+    "imagemUrl": "/images/servicos/proteses.jpg"
+  },
+  {
+    "id": "clareamento",
+    "nome": "Clareamento Dental",
+    "descricaoCurta": "Sorriso mais branco com segurança clínica.",
+    "descricaoLonga": "Protocolos a laser e caseiros supervisionados para resultados uniformes e duradouros.",
+    "icone": "Sun",
+    "imagemUrl": "/images/servicos/clareamento.jpg"
+  },
+  {
+    "id": "canal",
+    "nome": "Tratamento de Canal",
+    "descricaoCurta": "Indolor, preciso e com tecnologia rotatória.",
+    "descricaoLonga": "Endodontia moderna com anestesia eficaz e instrumentação rotatória de última geração.",
+    "icone": "Activity",
+    "imagemUrl": "/images/servicos/canal.jpg"
+  },
+  {
+    "id": "limpeza",
+    "nome": "Limpeza e Prevenção",
+    "descricaoCurta": "Saúde bucal em dia com check-ups regulares.",
+    "descricaoLonga": "Profilaxia profissional, remoção de tártaro e orientação personalizada de higiene.",
+    "icone": "ShieldCheck",
+    "imagemUrl": "/images/servicos/limpeza.jpg"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "f1", "pergunta": "Como faço para agendar uma avaliação?", "resposta": "Basta clicar em qualquer botão de \"Agendar pelo WhatsApp\" no site. Você será direcionado para uma conversa com nossa equipe, que vai confirmar o melhor horário." },
+  { "id": "f2", "pergunta": "A clínica atende convênios?", "resposta": "Trabalhamos majoritariamente com atendimento particular, com condições facilitadas de pagamento. Consulte nossa equipe pelo WhatsApp para mais detalhes." },
+  { "id": "f3", "pergunta": "Vocês atendem pacientes de outras cidades?", "resposta": "Sim! Além de Petrolina/PE, atendemos pacientes de Tabira/PE e Água Branca/PB, com planejamento de agenda facilitado." },
+  { "id": "f4", "pergunta": "Quais formas de pagamento são aceitas?", "resposta": "Aceitamos cartão de crédito/débito, PIX e parcelamento facilitado para tratamentos maiores. Fale com a nossa equipe para simular valores." },
+  { "id": "f5", "pergunta": "Os procedimentos estéticos doem?", "resposta": "Utilizamos protocolos modernos de anestesia e biossegurança para garantir o máximo conforto em todos os procedimentos." }
+]
